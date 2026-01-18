@@ -1,0 +1,23 @@
+﻿Nome da Variável;Tipo;Descrição;Unidades;Valores Faltantes
+track_name;Textual;Nome da música.;N/A;0
+artist(s)_name;Textual;Nome dos artistas.;N/A;0
+artist_count;Numérico Discreto;Quantidade de artistas envolvidos.;Contagem;0
+released_date;Data;Data completa de lançamento.;Data;0
+in_spotify_playlists;Numérico Discreto;Quantidade de playlists do Spotify contendo a música.;Contagem;0
+in_spotify_charts;Numérico Discreto;Posição ou presença em charts do Spotify.;Contagem;0
+streams;Numérico Discreto;Total de streams da música.;Contagem;1
+in_apple_playlists;Numérico Discreto;Quantidade de playlists da Apple contendo a música.;Contagem;0
+in_apple_charts;Numérico Discreto;Posição ou presença em charts da Apple.;Contagem;0
+in_deezer_playlists;Numérico Discreto;Quantidade de playlists do Deezer contendo a música.;Contagem;0
+in_deezer_charts;Numérico Discreto;Posição ou presença em charts do Deezer.;Contagem;0
+in_shazam_charts;Numérico Discreto;Posição ou presença nos charts do Shazam.;Contagem;57
+bpm;Numérico Contínuo;Batidas por minuto da música.;BPM;0
+key;Categórico;Tom da música.;N/A;95
+mode;Categórico Binário;Modo musical (maior=1, menor=0).;N/A;0
+danceability_%;Numérico Contínuo;Quão dançante é a música.;%;0
+valence_%;Numérico Contínuo;Valência emocional.;%;0
+energy_%;Numérico Contínuo;Energia geral da música.;%;0
+acousticness_%;Numérico Contínuo;Quantidade de acústica.;%;0
+instrumentalness_%;Numérico Contínuo;Probabilidade de ser instrumental.;%;0
+liveness_%;Numérico Contínuo;Probabilidade de ser ao vivo.;%;0
+speechiness_%;Numérico Contínuo;Presença de fala na música.;%;0
